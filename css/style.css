@@ -769,6 +769,11 @@ a.t-icon span {
 
 .test-grid-two {
     background: url(../images/test2.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
 }
 
 .testi-info {
