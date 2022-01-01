@@ -498,7 +498,7 @@ h3.title-w3ls.two {
 }
 
 .icon span {
-    color: #fc636b;
+    color: #FF8C00;
     line-height: 60px;
     font-size: 35px;
     transition: all 1s;
@@ -515,7 +515,7 @@ h3.title-w3ls.two {
     font-size: 1.2em;
     line-height: 1.75em;
     font-weight: 600;
-    color: #1aafd0;
+    color: #FF8C00;
     letter-spacing: 1px;
     margin-bottom: 0.5em;
 }
@@ -586,7 +586,7 @@ p.serp {
 .tab-main section {
     display: none;
     padding: 4em;
-    border: 1px solid #abc;
+    border: 1px solid #FF8C00;
 }
 
 .tab-main input {
@@ -600,7 +600,7 @@ p.serp {
     font-weight: 600;
     text-align: center;
     color: #1e272e;
-    border: 1px solid transparent;
+    border: 1px solid #FF8C00;
     background: #f7f7f7;
 }
 
@@ -717,7 +717,7 @@ h4.progress-wthree {
 
 .sub-tittle-team {
     font-size: 0.67em;
-    color: #17c0eb;
+    color: #FF8C00;
     font-weight: 700;
     letter-spacing: 2px;
     display: block;
@@ -735,7 +735,7 @@ h4.progress-wthree {
 
 
 .team-gd img {
-    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, .3);
+    box-shadow: 0 20px 40px -25px rgba(0, 0, 0, .3);
 }
 
 .team-icons li {
@@ -1038,12 +1038,13 @@ p.main_p4 {
 /* //contact */
 /* copyright */
 .copy-right {
-    background: #252831;
+    background: #F5DEB3;
 }
 
 p.copy-right-grids {
     letter-spacing: 2px;
-    color: #ddd;
+    color: #000;
+    font-weight: bold;
 }
 
 p.copy-right-grids a {
@@ -1108,6 +1109,9 @@ a.move-top span {
     line-height: 2em;
     background: #f7f7f7;
     border-radius: 5px;
+}
+a.move-top span:hover{
+    background: #FF8C00;
 }
 
 /*-- //to-top --*/
