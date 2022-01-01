@@ -137,7 +137,7 @@ nav ul {
 }
 
 ul.menu {
-    margin-top: 1.4em;
+    margin-top: 1em;
 }
 
 /* Positioning the navigation items inline */
@@ -171,7 +171,7 @@ nav a:hover {
 }
 
 .menu li.active a {
-    color: #fc636b;
+    color: rgb(255,172,60);
 }
 
 /* Hide Dropdowns by Default
@@ -406,7 +406,7 @@ li > a:only-child:after {
 }
 
 .overlay-w3ls {
-    background: rgba(21, 2, 32, 0.55);
+    /* background: rgba(21, 2, 32, 0.55); */
     min-height: 50em;
 }
 
