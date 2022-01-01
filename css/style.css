@@ -167,7 +167,7 @@ nav ul li ul li:hover {
 /* Background color change on Hover */
 
 nav a:hover {
-    color: #fc636b;
+    color: #FF8C00;
 }
 
 .menu li.active a {
@@ -552,6 +552,15 @@ p.serp {
 }
 /*----*/
 
+.btnlink{
+    width: 100%;
+    padding: 0 !important;
+    margin: 0 auto;
+}
+.btnlink .container,.btnlink .py-md-5{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
 .ser-rgt {
     padding: 0;
 }
@@ -795,9 +804,9 @@ a.t-icon span {
 
 .button-style {
     padding: 0.8em 2.2em;
-    color: #6a67ce;
+    color: #FF8C00;
     letter-spacing: 1px;
-    border: 2px solid #6a67ce;
+    border: 2px solid #FF8C00;
     font-size: 1em;
     background: rgba(255, 255, 255, 0.07);
     transition: 0.5s all;
