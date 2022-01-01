@@ -640,7 +640,7 @@ p.serp {
 .tab-main input:checked + label {
     color: #fff;
     border: 1px solid transparent;
-    background: #fc636b;
+    background: #FF8C00;
 }
 
 .tab-main #tab1:checked ~ #content1,
