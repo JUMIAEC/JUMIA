@@ -1038,12 +1038,12 @@ p.main_p4 {
 /* //contact */
 /* copyright */
 .copy-right {
-    background: #F5DEB3;
+    background: #666;
 }
 
 p.copy-right-grids {
     letter-spacing: 2px;
-    color: #000;
+    color: #fff;
     font-weight: bold;
 }
 
